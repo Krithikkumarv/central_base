@@ -2,7 +2,11 @@ first file
 line 1
 line 2
 line changed
+<<<<<<< Updated upstream
 
 changing in ws2 
 
+=======
+make to conflit
+>>>>>>> Stashed changes
 changing for first time
